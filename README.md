@@ -1,4 +1,6 @@
-<img width="1535" height="1024" alt="ChatGPT Image 2026年4月29日 14_15_07" src="https://github.com/user-attachments/assets/94439d52-c74c-43a5-8f27-22e4cc759489" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94439d52-c74c-43a5-8f27-22e4cc759489" width="600">
+</p>
 
 一个收集高质量 GPT-Image-2 图像生成 Prompt 的中文案例库。  
 每个案例均包含 Prompt + 生成图像，用于直接复用和参考。  
@@ -51,15 +53,16 @@ taylor_expansion/
 > 视觉风格：竖版或横版均可，干净的浅色纸张背景，深蓝标题，黑色/深灰正文线条，搭配少量优雅的蓝色、青绿色、金色、红色强调色。使用圆角卡片、细线边框、编号标签、手绘箭头、局部放大框和总结栏。整体要美观、平衡、有学术感，让人一眼看懂这个概念的“结构”和“为什么”。
 ### Taylor Expansion  
 <img src="https://github.com/user-attachments/assets/2a2c8eff-8897-46ae-9fc7-12ebceec738e" width="400">
+
 ### 📌 使用方式  
 浏览对应分类目录  
 打开案例文件夹  
 复制 prompt.md 中的提示词  
-在 GPT-Image-2 中使用  
+在 GPT-Image-2 中使用 
+
 ### 🚀 后续计划  
 增加更多高质量案例  
 增加不同风格对比  
 增加 Prompt 优化案例（前后对比）  
-
 
 如果这个项目对你有帮助，欢迎 Star ⭐  
