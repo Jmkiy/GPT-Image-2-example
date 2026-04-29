@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/94439d52-c74c-43a5-8f27-22e4cc759489" width="600">
+  <img src="https://github.com/user-attachments/assets/94439d52-c74c-43a5-8f27-22e4cc759489" width="1000">
 </p>
 
 一个收集高质量 GPT-Image-2 图像生成 Prompt 的中文案例库。  
